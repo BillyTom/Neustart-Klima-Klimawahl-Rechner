@@ -1,1 +1,1 @@
-"# Neustart-Klima-Klimawahl-Rechner" 
+# Neustart-Klima-Klimawahl-Rechner
